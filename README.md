@@ -1,2 +1,2 @@
-# DataMiningProject
+# DatavisualizationProject
 Class Assignment
